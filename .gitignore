@@ -1,0 +1,9 @@
+.env
+data
+node_modules
+dist
+compiled
+dbudget-linux
+dbudget-linux.zip
+dbudget-windows
+dbudget-windows.zip
